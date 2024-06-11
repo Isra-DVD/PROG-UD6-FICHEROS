@@ -7,7 +7,7 @@ import java.util.Scanner;
 import actividades.cuatro.mobiliario.Mesa;
 import actividades.cuatro.utilidades.Utilidades;
 
-public class Main {
+public class MainCuatro {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         Scanner escaner = new Scanner(System.in);
         boolean seguirPreguntando = true;
