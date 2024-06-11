@@ -1,4 +1,4 @@
-package actividades.cuatro;
+package actividades.tres;
 
 public class Main {
     public static void main(String[] args) {
